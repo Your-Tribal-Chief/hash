@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hash_navy">#0B1020</color>
+    <color name="hash_glow">#2A1F5C</color>
+
+    <style name="Theme.Hash" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/hash_navy</item>
+        <item name="android:statusBarColor">@color/hash_navy</item>
+        <item name="android:navigationBarColor">@color/hash_navy</item>
+    </style>
+</resources>
